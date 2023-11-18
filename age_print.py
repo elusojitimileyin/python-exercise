@@ -1,3 +1,4 @@
+print("How old are you?")
 print("Enter age in years:")
 age = int(input())
 
