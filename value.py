@@ -1,0 +1,6 @@
+print(27.5+2, 'is the value')
+print(27.5-2, 'is the value')
+print(27.5*2, 'is the value')
+print(27.5/2, 'is the value')
+print(27.5//2, 'is the value')
+print(27.5**2, 'is the value')
